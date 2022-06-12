@@ -12,3 +12,4 @@ D:\Proqraming\c#\Projectss\methodHomeWork\thirdMethodProject\thirdMethodProject\
 D:\Proqraming\c#\Projectss\methodHomeWork\thirdMethodProject\thirdMethodProject\thirdMethodProject\obj\Debug\net6.0\ref\thirdMethodProject.dll
 D:\Proqraming\c#\Projectss\methodHomeWork\thirdMethodProject\thirdMethodProject\thirdMethodProject\obj\Debug\net6.0\thirdMethodProject.pdb
 D:\Proqraming\c#\Projectss\methodHomeWork\thirdMethodProject\thirdMethodProject\thirdMethodProject\obj\Debug\net6.0\thirdMethodProject.genruntimeconfig.cache
+D:\Proqraming\c#\Projectss\methodHomeWork\thirdMethodProject\thirdMethodProject\thirdMethodProject\obj\Debug\net6.0\thirdMethodProject.csproj.AssemblyReference.cache
