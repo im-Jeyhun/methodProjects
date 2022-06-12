@@ -1,0 +1,14 @@
+D:\Proqraming\c#\Projectss\methodHomeWork\thirdMethodProject\thirdMethodProject\thirdMethodProject\bin\Debug\net6.0\thirdMethodProject.exe
+D:\Proqraming\c#\Projectss\methodHomeWork\thirdMethodProject\thirdMethodProject\thirdMethodProject\bin\Debug\net6.0\thirdMethodProject.deps.json
+D:\Proqraming\c#\Projectss\methodHomeWork\thirdMethodProject\thirdMethodProject\thirdMethodProject\bin\Debug\net6.0\thirdMethodProject.runtimeconfig.json
+D:\Proqraming\c#\Projectss\methodHomeWork\thirdMethodProject\thirdMethodProject\thirdMethodProject\bin\Debug\net6.0\thirdMethodProject.dll
+D:\Proqraming\c#\Projectss\methodHomeWork\thirdMethodProject\thirdMethodProject\thirdMethodProject\bin\Debug\net6.0\ref\thirdMethodProject.dll
+D:\Proqraming\c#\Projectss\methodHomeWork\thirdMethodProject\thirdMethodProject\thirdMethodProject\bin\Debug\net6.0\thirdMethodProject.pdb
+D:\Proqraming\c#\Projectss\methodHomeWork\thirdMethodProject\thirdMethodProject\thirdMethodProject\obj\Debug\net6.0\thirdMethodProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proqraming\c#\Projectss\methodHomeWork\thirdMethodProject\thirdMethodProject\thirdMethodProject\obj\Debug\net6.0\thirdMethodProject.AssemblyInfoInputs.cache
+D:\Proqraming\c#\Projectss\methodHomeWork\thirdMethodProject\thirdMethodProject\thirdMethodProject\obj\Debug\net6.0\thirdMethodProject.AssemblyInfo.cs
+D:\Proqraming\c#\Projectss\methodHomeWork\thirdMethodProject\thirdMethodProject\thirdMethodProject\obj\Debug\net6.0\thirdMethodProject.csproj.CoreCompileInputs.cache
+D:\Proqraming\c#\Projectss\methodHomeWork\thirdMethodProject\thirdMethodProject\thirdMethodProject\obj\Debug\net6.0\thirdMethodProject.dll
+D:\Proqraming\c#\Projectss\methodHomeWork\thirdMethodProject\thirdMethodProject\thirdMethodProject\obj\Debug\net6.0\ref\thirdMethodProject.dll
+D:\Proqraming\c#\Projectss\methodHomeWork\thirdMethodProject\thirdMethodProject\thirdMethodProject\obj\Debug\net6.0\thirdMethodProject.pdb
+D:\Proqraming\c#\Projectss\methodHomeWork\thirdMethodProject\thirdMethodProject\thirdMethodProject\obj\Debug\net6.0\thirdMethodProject.genruntimeconfig.cache
